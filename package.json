@@ -1,0 +1,18 @@
+{
+  "name": "sphero-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "babel-register": "^6.14.0",
+    "cylon": "^1.3.0",
+    "cylon-sphero": "^0.23.0"
+  }
+}
