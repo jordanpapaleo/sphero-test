@@ -10,6 +10,7 @@ Cylon.robot({
     sphero: { driver: 'sphero' }
   },
   work (my) {
+    console.log(my)
     every((1).second(), () => {
       my.sphero.roll(60, Math.floor(Math.random() * 360))
     })
