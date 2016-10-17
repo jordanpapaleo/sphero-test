@@ -26,3 +26,6 @@ connections: {
   }
 },
 ```
+
+
+https://sdk.sphero.com/community-apis/javascript-sdk/
